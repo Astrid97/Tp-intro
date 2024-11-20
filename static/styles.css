@@ -140,3 +140,6 @@ table.table td i {
     margin-top: 6px;
     font-size: 95%;
 }
+.green{
+    border-color: green;
+}
